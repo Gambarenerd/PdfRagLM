@@ -22,3 +22,10 @@ spring:
   ai:
     openai:
       api-key: ${OPENAI_KEY}
+```
+## Acknowledgments
+
+This project was inspired by a **DevXplaining** that provided insights into how to extract and use PDF content with neural networks.
+
+- [DevXplaining](https://www.youtube.com/@DevXplaining)
+
